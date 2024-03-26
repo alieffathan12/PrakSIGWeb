@@ -35,7 +35,7 @@
         "marker-color": "#f91f1f",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Puskesmas": "3",
+        "Puskesmas": "Puskesmas Mantrijeron",
         "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
@@ -120,7 +120,7 @@
         "marker-color": "#f91f1f",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Puskesmas": "9",
+        "Puskesmas": "Puskesmas Piyungan Bantul",
         "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
@@ -274,7 +274,7 @@
         "marker-color": "#f91f1f",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Puskesmas": "20",
+        "Puskesmas": "Puskesmas Kalitirto Berbah",
         "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
     },
     "geometry": {
