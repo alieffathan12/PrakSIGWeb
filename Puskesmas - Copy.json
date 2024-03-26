@@ -4,10 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 1"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -17,10 +18,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 2"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -30,10 +32,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 3"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -43,10 +46,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 4"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -56,10 +60,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 5"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -69,10 +74,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 6"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -83,10 +89,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 7"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -96,10 +103,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 8"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -109,10 +117,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 9"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -122,10 +131,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 10"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -135,10 +145,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 11"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -148,10 +159,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 12"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -161,10 +173,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 13"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -174,10 +187,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 14"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -187,10 +201,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
-        "marker-color": "#FF5733",
-        "name": "<strong>Puskesmas 1</strong>",
-        "description": "Description for Feature 15"
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
       },
       "geometry": {
         "type": "Point",
@@ -199,11 +214,12 @@
     },
   {
     "type": "Feature",
-    "properties": {
-      "marker-symbol": "circle",
-      "marker-color": "#FF5733",
-      "name": "<strong>Puskesmas 1</strong>",
-      "description": "Description for Feature 16"
+      "properties": {
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
     },
     "geometry": {
       "type": "Point",
@@ -212,11 +228,12 @@
   },
   {
     "type": "Feature",
-    "properties": {
-      "marker-symbol": "circle",
-      "marker-color": "#FF5733",
-      "name": "<strong>Puskesmas 1</strong>",
-      "description": "Description for Feature 17"
+      "properties": {
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
     },
     "geometry": {
       "type": "Point",
@@ -225,11 +242,12 @@
   },
   {
     "type": "Feature",
-    "properties": {
-      "marker-symbol": "circle",
-      "marker-color": "#FF5733",
-      "name": "<strong>Puskesmas 1</strong>",
-      "description": "Description for Feature 18"
+      "properties": {
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
     },
     "geometry": {
       "type": "Point",
@@ -238,11 +256,12 @@
   },
   {
     "type": "Feature",
-    "properties": {
-      "marker-symbol": "circle",
-      "marker-color": "#FF5733",
-      "name": "<strong>Puskesmas 1</strong>",
-      "description": "Description for Feature 19"
+      "properties": {
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
     },
     "geometry": {
       "type": "Point",
@@ -251,11 +270,12 @@
   },
   {
     "type": "Feature",
-    "properties": {
-      "marker-symbol": "circle",
-      "marker-color": "#FF5733",
-      "name": "<strong>Puskesmas 1</strong>",
-      "description": "Description for Feature 20"
+      "properties": {
+        "marker-color": "#f91f1f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Puskesmas": "Pakualaman Yogyakarta",
+        "Alamat": "JI. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
     },
     "geometry": {
       "type": "Point",
