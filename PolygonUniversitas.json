@@ -174,8 +174,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Islam Indonesia",
+            "description": "Kaliurang St No.Km. 14,5, Krawitan, Umbulmartani, Ngemplak, Sleman Regency, Special Region of Yogyakarta 55584"
         },
         "geometry": {
           "coordinates": [
@@ -344,7 +344,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "3",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
@@ -406,7 +406,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "4",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
@@ -480,7 +480,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Polygon 1",
+          "name": "5",
           "description": "This is the first polygon."
         },
         "geometry": {
@@ -514,7 +514,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "6",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
@@ -568,7 +568,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "7",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
@@ -686,7 +686,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "8",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
@@ -740,7 +740,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "9",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
@@ -814,7 +814,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "10",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
@@ -864,7 +864,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "11",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
@@ -934,7 +934,7 @@
       {
         "type": "Feature",
         "properties": {
-        "name": "Universitas Muhamadiyah Yogyakarta",
+        "name": "12",
         "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"},
         "geometry": {
           "coordinates": [
@@ -975,7 +975,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "13",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
@@ -1017,7 +1017,7 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "Universitas Muhamadiyah Yogyakarta",
+            "name": "14",
             "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
         },
         "geometry": {
