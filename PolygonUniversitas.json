@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Polygon 1",
-        "description": "This is the first polygon."
+        "name": "Universitas Muhamadiyah Yogyakarta",
+        "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
       },
       "geometry": {
         "coordinates": [
