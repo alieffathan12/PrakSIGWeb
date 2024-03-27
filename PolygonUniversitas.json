@@ -173,7 +173,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.32143121147209,
@@ -362,7 +365,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           [
@@ -421,7 +427,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+       "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.35529472869587,
@@ -514,7 +523,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           [
@@ -545,7 +557,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.38292751996772,
@@ -607,7 +622,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.38947992029364,
@@ -733,7 +751,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.33300697556712,
@@ -795,7 +816,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.3786434301901,
@@ -877,7 +901,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.39175620109592,
@@ -935,7 +962,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.41353325145587,
@@ -1013,7 +1043,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.40892693361673,
@@ -1063,7 +1096,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.39457451052323,
@@ -1113,7 +1149,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.35733521274744,
@@ -1179,7 +1218,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Polygon 1",
+        "description": "This is the first polygon."
+      },
       "geometry": {
         "coordinates": [
           110.35674966437887,
