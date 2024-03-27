@@ -344,8 +344,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "3",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Teknologi Yogyakarta - Kampus 1",
+            "description": "Jl. Siliwangi Jl. Ring Road Utara, Jombor Lor, Sendangadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55285"
         },
         "geometry": {
           "coordinates": [
@@ -406,8 +406,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "4",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Teknologi Yogyakarta - Kampus 2",
+            "description": "Jl. Glagahsari No.63, Warungboto, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55164"
         },
         "geometry": {
           "coordinates": [
@@ -480,8 +480,8 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "5",
-          "description": "This is the first polygon."
+          "name": "Universitas Ahmad Dahlan - Kampus 1",
+          "description": "Jl. Kapas No.9, Semaki, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
         },
         "geometry": {
           "coordinates": [
@@ -514,8 +514,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "6",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Ahmad Dahlan - Kampus 3",
+            "description": "Jl. Prof. DR. Soepomo Sh, Warungboto, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta"
         },
         "geometry": {
           "coordinates": [
@@ -568,8 +568,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "7",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Aisyiyah",
+            "description": "Jl. Siliwangi No.63, Area Sawah, Nogotirto, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55292"
         },
         "geometry": {
           "coordinates": [
@@ -686,8 +686,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "8",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Kristen Duta Wacana",
+            "description": "Jl. Dr. Wahidin Sudirohusodo No.5-25, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224"
         },
         "geometry": {
           "coordinates": [
@@ -740,8 +740,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "9",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Sanata Dharma",
+            "description": "Jl. Mrican Baru, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
         },
         "geometry": {
           "coordinates": [
@@ -814,8 +814,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "10",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Atma Jaya - Kampus II dan III",
+            "description": "Jl. Babarsari No.44, Janti, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
         },
         "geometry": {
           "coordinates": [
@@ -861,11 +861,49 @@
           "type": "Polygon"
         }
       },
+        {
+      "type": "Feature",
+      "properties": {
+            "name": "Universitas Atma Jaya - Kampus 1",
+            "description": "Jl. Mrican Baru No.28, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.39226128451804,
+              -7.776507033518655
+            ],
+            [
+              110.39256598941358,
+              -7.776586282955847
+            ],
+            [
+              110.39305351724528,
+              -7.776710817755827
+            ],
+            [
+              110.39319063444782,
+              -7.775925870520538
+            ],
+            [
+              110.39236793123229,
+              -7.775778692750606
+            ],
+            [
+              110.39226128451804,
+              -7.776507033518655
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
       {
         "type": "Feature",
         "properties": {
-            "name": "11",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Amikom Yogyakarta",
+            "description": "Jl. Ring Road Utara, Ngringin, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
         },
         "geometry": {
           "coordinates": [
@@ -934,8 +972,8 @@
       {
         "type": "Feature",
         "properties": {
-        "name": "12",
-        "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"},
+        "name": "Universitas Mercu Buana",
+        "description": "Gg. Jemb. Merah No.84C, Soropadan, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55283"},
         "geometry": {
           "coordinates": [
             [
@@ -975,8 +1013,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "13",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Universitas Janabadra",
+            "description": "Jl. Tentara Rakyat Mataram No.55-57, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
         },
         "geometry": {
           "coordinates": [
@@ -1017,8 +1055,8 @@
       {
         "type": "Feature",
         "properties": {
-            "name": "14",
-            "description": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183"
+            "name": "Institut Seni Indonesia Yogyakarta",
+            "description": "Jl. Parangtritis No.KM.6.5, Glondong, Panggungharjo, Kec. Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55188"
         },
         "geometry": {
           "coordinates": [
