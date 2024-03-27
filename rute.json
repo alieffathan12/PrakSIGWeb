@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Kos Saya",
+        "description": "Jalan Pogung Kidul, Sinduadi, Mlati, Pogung Kidul, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284"
+      },
       "geometry": {
         "coordinates": [
           110.3740166617909,
@@ -208,7 +211,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "RSUP Dr. Sardjito",
+        "description": "Jl. Kesehatan Sendowo No.1, Sendowo, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+      },
       "geometry": {
         "coordinates": [
           110.3737218507726,
